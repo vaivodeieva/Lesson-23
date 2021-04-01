@@ -1,6 +1,4 @@
 
-
-
 function getFormvalue()
 {
   let x=document.getElementById("form1");
